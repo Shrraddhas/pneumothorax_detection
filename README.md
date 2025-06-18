@@ -1,4 +1,4 @@
-Pneumothorax Detection and Segmentation using CNN with LIME
+# Pneumothorax Detection and Segmentation using CNN with LIME
 This project focuses on detecting and segmenting pneumothorax in chest X-ray images using deep learning techniques, specifically Convolutional Neural Networks (CNNs). We use interpretability techniques like LIME and SHAP to explain the predictions made by the model.
 
 Dataset
